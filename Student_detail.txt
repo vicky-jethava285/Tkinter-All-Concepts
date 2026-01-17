@@ -1,0 +1,6 @@
+('vikas jethava ', '25', '21', '12', 'jnd')
+
+('vikas jethava', '24', '20', 'fy', 'jnd')
+('vikas jethava', '24', '20', 'fy', 'jnd')
+('', '', '', '', '')
+('vikas', '23', '22', 'gse', 'amd')
